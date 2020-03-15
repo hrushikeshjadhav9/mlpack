@@ -38,6 +38,7 @@ class Acrobot
     /**
      * Construct a state instance.
      */
+//    : is used for?
     State(): data(dimension) { /* nothing to do here */ }
 
     /**
